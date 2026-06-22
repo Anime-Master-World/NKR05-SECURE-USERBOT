@@ -1,4 +1,5 @@
 from telethon import events
+from core.database import approved
 
 from core.client import client
 
