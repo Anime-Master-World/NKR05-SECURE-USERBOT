@@ -1,4 +1,5 @@
 from telethon import events
+from telethon.tl import functions
 
 from core.client import client
 from core.database import approved, warnings
